@@ -10,8 +10,8 @@ Screenshots:
 ![Screenshot 3](./Assets/Images/Capture3.PNG)
 
 Links: 
--GitHub Repository: https://github.com/awoolley1/AWoolley_Week2_HWSubmission
--Live URL: https://awoolley1.github.io/AWoolley_Week2_HWSubmission/
+-GitHub Repository: https://github.com/awoolley1/A_Woolley_Portfolio
+-Live URL: https://awoolley1.github.io/A_Woolley_Portfolio/
 
 Author: 
 -Alex Woolley; https://github.com/awoolley1; alexander.s.woolley@gmail.com
